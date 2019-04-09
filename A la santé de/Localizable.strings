@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  A la santé de
+
+  Created by Valentin on 05/04/2019.
+  Copyright © 2019 Valentin Garcia. All rights reserved.
+*/
+
+//SOFT
+"worst_student" = "Qui était le / la plus mauvais(e) en cours ?";
+
+"most_intelligent" = "Qui est le / la plus intelligent(e) ?";
+
+"most_sleep" = "Qui est le / la plus dormeur / dormeuse ?";
+
+"most_roisterer" = "Qui est le / la plus fêtard(e) ?";
+
+"most_emotional" = "Qui est le / la plus émotif / émotive ?";
+
+"most_arrogant" = "Qui est le / la plus arrogant(e) ?";
+
+"most_skinflint" = "Qui est le / la plus radin(e) ?";
+
+"worst_cook" = "Qui est le pire cuisinier ?";
+
+"most_snore" = "Qui ronfle le plus ?";
+
+"most_shy" = "Qui est le / la plus timide ?";
+
+"most_shopping" = "Qui est le / la plus accro au shopping ?";
+
+"most_talkative" = "Qui est le / la plus bavard(e) ?";
+
+"worst_singer" = "Qui est le pire chanteur ?";
+
+"best_english" = "Qui parle le mieux anglais ?";
+
+"worst_english" = "Qui parle le moins bien anglais ?";
+
+"best_sport" = "Qui est le / la plus sportif / sportive ?";
+
+"most_cry" = "Qui pleure le plus devant des films ?";
+
+//BOTH
+
+"most_alcoholic" = "Qui est le / la plus résistant(e) à l\'alcool ?";
+
+"worst_alcoholic" = "Qui tient le moins l\'alcool ?";
+
+"most_beautiful_boy" = "Qui est le plus beau mec / la plus belle fille parmi tous les joueurs ?";
+
+"most_dredger" = "Qui est le / la plus dragueur / dragueuse ?";
+
+"worst_dredger" = "Qui est le / la pire dragueur / dragueuse ?";
+
+"most_slackness" = "Qui est le / la plus flemmard ?";
+
+"most_drunk" = "Qui est le / la plus bourré(e) ?";
+
+"worst_drunk" = "Qui n\'a pas encore assez bu et va boire après cette question ?";
+
+"most_extrovert" = "Qui est le / la plus extraverti(e) ?";
+
+"most_loyal" = "Qui est le / la plus fidèle en couple ?";
+
+"most_spew" = "Qui vomit à chaque soirée ?";
+
+"most_lier" = "Qui est le / la plus gros(se) menteur / menteuse ?";
+
+"most_duck" = "Qui est le plus canard ?";
+
+"worst_driver" = "Qui est le pire chauffard sur la route ?";
+
+"worst_character" = "Qui a le pire caractère ?";
+
+"justin_bieber" = "Qui écoute du Justin Bieber en cachette ?";
+
+"kiss_celebrity" = "Qui pourrait embrasser une affiche d\'une célébrité ?";
+
+"lie_for_game" = "Qui a menti exprès pour faire boire quelqu\'un en particulier?";
+
+//HARD
+
+"most_precocious" = "Qui est le plus précoce ?";
+
+"best_shot" = "Qui est le meilleur coup au lit ?";
+
+"worst_shot" = "Qui est le pire coup au lit ?";
+
+"most_apt_milf" = "Qui est le plus susceptible de se taper une MILF ?";
+
+"most_sex_like" = "Qui aime le plus le sexe ?";
+
+"most_apt_bit_h" = "Qui est le plus susceptible d\'aller voir une p*te ?";
+
+"most_cheater" = "Qui est le / la plus susceptible de tromper sa meuf / son mec ?";
+
+"most_sado" = "Qui pourrait être le prochain Christian Grey ? (espèce de sadique)";
+
+"most_michto" = "Qui est la plus michtonneuse ?";
+
+"most_masturbate" = "Qui se masturbe le plus par jour ?";
+
+"worst_stink" = "Qui pue le plus ?";
+
+"eat_shit" = "Qui pourrait le plus manger ses propres excréments ?";
+
+"most_sister" = "Qui pourrait se mettre en couple avec son frère / sa soeur ?";
+
+"mistake_name" = "Qui pourrait se tromper de nom pendant l\acte ?";
+
+"fake_orgasm" = "Qui pourrait le plus faire semblant d\'avoir un orgasme ?";
+
+"send_nudes" = "Qui réclame le plus : \"send nudes\" ?";
+
+"sex_here" = "Qui a le plus envie de coucher avec une personne ici ?";
+
+"polygame" = "Qui est le plus polygame ?";
+
+"sextoys" = "Qui aime le plus les sextoys ?";

@@ -9,10 +9,23 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    @IBOutlet weak var background_rectangle: UIView!
+    @IBOutlet weak var label_presentation: UILabel!
+    @IBOutlet weak var buttonView: UIView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        background_rectangle.height = label_presentation.height + CGFloat(8)
+        background_rectangle.layoutIfNeeded()
+        background_rectangle.layer.cornerRadius = 5
+        background_rectangle.layer.masksToBounds = true
+    
+        
+        buttonView.layoutIfNeeded()
+        buttonView.layer.cornerRadius = 5
+        buttonView.layer.masksToBounds = true
     }
 
     override func didReceiveMemoryWarning() {
